@@ -1,0 +1,23 @@
+.container {
+  padding: 50px;
+}
+.box {
+  width: 50px;
+  height: 50px;
+  background-color: green;
+  animation: zoomInZoomOut;
+  animation-duration: 1s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+}
+@keyframes zoomInZoomOut {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.5, 1.5);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
