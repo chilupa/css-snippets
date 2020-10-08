@@ -11,7 +11,7 @@ Here's how you can contribute
    - [Stackblitz](https://stackblitz.com/)
    - [JSFiddle](https://jsfiddle.net/)
 
-2. Once you are done, create a folder with `kebab-case` format and add your `html` and `css` files and in `snippets.md` file provide **name**, **description** and **link** to your live code editor in `snippets.md` file and that's it :sunglasses:. For example, you can look into this [template](https://github.com/chilupa/css-snippets/blob/develop/snippets.md) for your reference.
+2. Once you are done, create a folder and name it following `kebab-case` format and add your `html` and `css` files and in `snippets.md` file provide **name**, **description** and **link** to your live code editor in `snippets.md` file and that's it :sunglasses:. For example, you can look into this [template](https://github.com/chilupa/css-snippets/blob/develop/snippets.md) for your reference.
 
 ## Create Pull Request
 
@@ -24,4 +24,5 @@ In order to create a Pull request
     - Go to `snippets.md` file. Add a nice name, precise description of what your code does and attach link to your code following this markdown [format](https://github.com/chilupa/css-snippets/blob/develop/snippets.md).
 - Commit your changes.
 - Push to remote repository and then create a Pull request.
+- Give your Pull request a brief name that describes your snippet.
 - After reviewing your code, the PRs will be merged and you can see your changes live :rocket:
